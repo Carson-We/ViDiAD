@@ -21,6 +21,7 @@ Dependencies
 The project relies on the following dependencies:
 
 OpenCV ↗: An open-source computer vision library for various image and video processing tasks.
+
 Python ↗: The programming language used for developing the system.
 Make sure to install these dependencies before running the project.
 

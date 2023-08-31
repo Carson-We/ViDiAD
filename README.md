@@ -4,7 +4,7 @@ This repository contains the code and resources for the Vision-based Distance an
 ## Features
 Distance Analysis: The system leverages computer vision algorithms to estimate distances between objects in a scene. This can be achieved through methods such as depth perception, 3D reconstruction, or disparity-based approaches.
 
-Object Analysis: The system incorporates computer vision techniques to analyze and recognize objects within a given scene. This includes object detection, tracking, classification, and .
+Object Analysis: The system incorporates computer vision techniques to analyze and recognize objects within a given scene. This includes object detection, tracking, classification.
 
 Applications: The project aims to provide a comprehensive understanding of objects and their attributes in a scene, which can be utilized in various applications such as robot navigation, intelligent surveillance, autonomous vehicles, augmented reality, and more.
 

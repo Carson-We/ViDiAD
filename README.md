@@ -32,6 +32,36 @@ Make sure to install these dependencies before running the project.
 
 # Usage
 
+## Software Info
+
+### Donkey Car
+
+origin: https://github.com/robocarstore/donkeycar
+
+### Donkey Car Console
+
+origin: `https://github.com/robocarstore/donkeycar-console`
+
+# Commercial Use
+The ViDiAD system is available for commercial use, subject to the terms and conditions outlined in the licensing agreement. If you wish to utilize the ViDiAD system for commercial purposes, please follow the guidelines below:
+
+Licensing: Obtain the appropriate license for commercial usage of the ViDiAD system. This may involve contacting the developers or the organization responsible for distributing the system to acquire the necessary licensing agreement.
+
+Compliance: Ensure that your usage of the ViDiAD system aligns with the terms and conditions specified in the licensing agreement. This may include restrictions on redistribution, modifications, or sublicensing of the system.
+
+Integration: Integrate the ViDiAD system into your commercial application or workflow. Follow the provided documentation and guidelines to properly configure and utilize the system for your specific use case.
+
+Performance and Optimization: Fine-tune the ViDiAD system to meet the performance and optimization requirements of your commercial application. This may involve optimizing resource usage, adjusting parameters, or conducting additional training with your own dataset.
+
+Support and Maintenance: Depending on the licensing agreement, ensure that you have access to the necessary support and maintenance services for the ViDiAD system. This may include troubleshooting assistance, bug fixes, updates, and access to new features or improvements.
+
+Compliance with Legal and Ethical Standards: When using the ViDiAD system commercially, ensure that your application complies with all applicable legal and ethical standards. This includes privacy regulations, data protection, and any other relevant laws or guidelines in your jurisdiction.
+
+Please consult the licensing agreement and seek legal advice if necessary to ensure proper compliance with the terms and conditions for commercial use of the ViDiAD system.
+
+For any inquiries or further information regarding commercial use, please contact carsonw1125@icloud.com
+
+
 # Author and Contact Information
 If you have any inquiries or feedback regarding the project, we are here to assist you. We highly appreciate your interest and support in the ViDiAD system as we strive to achieve excellent reliability and accuracy in vision-based distance estimation and object analysis. Please feel free to reach out to us with any questions, suggestions, or collaboration opportunities. Your input is valuable to us as we continue to enhance and improve the project.
 

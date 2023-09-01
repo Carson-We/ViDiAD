@@ -11,6 +11,9 @@ The system uses computer vision techniques to analyze and recognize objects in a
 3. Applications
 The project aims to provide a comprehensive understanding of objects and their attributes in a scene, which can be utilized in various applications such as robot navigation, intelligent surveillance, autonomous vehicles, augmented reality, and more.
 
+# Pronunciation
+ViDiAD: /ˈvaɪ.diː.æd/
+
 # Getting Started
 To get started with the Vision-based Distance and Object Analysis project, follow these steps:
 

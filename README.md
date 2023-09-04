@@ -73,12 +73,12 @@ Contact Information:
   - Email:
 
  - Hose Wong
-  - Email:fkwong1008@gmail.com
+   - Email:fkwong1008@gmail.com
 
 - /
   - Email:
 
  - /
-  - Email:
+   - Email:
 
 Thank you for your interest and support in the ViDiAD system!

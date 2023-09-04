@@ -70,6 +70,15 @@ Contact Information:
   - Email: carsonw1125@icloud.com
 
 - Mr. Jonathan Tse
-  - Email: 
+  - Email:
+
+ - Hose Wong
+  - Email:fkwong1008@gmail.com
+
+- /
+  - Email:
+
+ - /
+  - Email:
 
 Thank you for your interest and support in the ViDiAD system!

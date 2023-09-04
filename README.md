@@ -72,13 +72,13 @@ Contact Information:
 - Mr. Jonathan Tse
   - Email:
 
+- Marcus Tong
+  - Email:marcustongth@gmail.com
+
  - Hose Wong
    - Email:fkwong1008@gmail.com
 
-- /
-  - Email:
-
- - /
-   - Email:
+ - Wilber Lee
+   - Email:shingchun1115@gmail.com
 
 Thank you for your interest and support in the ViDiAD system!

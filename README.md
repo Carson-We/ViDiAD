@@ -59,7 +59,7 @@ Compliance with Legal and Ethical Standards: When using the ViDiAD system commer
 
 Please consult the licensing agreement and seek legal advice if necessary to ensure proper compliance with the terms and conditions for commercial use of the ViDiAD system.
 
-For any inquiries or further information regarding commercial use, please contact carsonw1125@icloud.com
+For any inquiries or further information regarding commercial use, please contact carson.developer1125@gmail.com
 
 
 # Author and Contact Information
@@ -67,7 +67,7 @@ If you have any inquiries or feedback regarding the project, we are here to assi
 
 Contact Information:
 - Carson
-  - Email: carsonw1125@icloud.com
+  - Email: carson.developer1125@gmail.com
 
 - Mr. Jonathan Tse
   - Email:
